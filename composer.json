@@ -1,8 +1,8 @@
 {
-    "name": "composerpro/test",
+    "name": "composerpro/testt",
     "description": "composer上传测试",
+    "keywords": ["composerpro","testt"],
     "type": "library",
-    "license": "444",
     "authors": [
         {
             "name": "王网琴(小网)",
