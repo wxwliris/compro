@@ -1,0 +1,14 @@
+{
+    "name": "composerpro/test",
+    "description": "composer上传测试",
+    "type": "library",
+    "license": "444",
+    "authors": [
+        {
+            "name": "王网琴(小网)",
+            "email": "wangwq@yoozoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
