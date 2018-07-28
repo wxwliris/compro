@@ -9,6 +9,6 @@
             "email": "wangwq@yoozoo.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
